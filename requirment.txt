@@ -1,0 +1,8 @@
+pandas
+sklearn
+pytz
+yfinance
+numpy
+boto3
+datetime
+time
