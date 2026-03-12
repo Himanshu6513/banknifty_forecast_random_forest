@@ -21,4 +21,6 @@ Run main.py in Ec2 instance.
 
 
 After 20 min you can run Live_market_notebook.ipynb to compare the forecast with actual stock price or index value
- along with past values for the same.
+along with past values for the same.
+Check below article for more details regarding its working:-
+https://medium.com/@himanshu6513/predicting-banknifty-movement-with-random-forest-time-series-forecasting-at-a-half-hour-lag-528e89079b8f
